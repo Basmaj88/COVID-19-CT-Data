@@ -2,6 +2,7 @@
 COVID-CT-Dataset 
 # COVID-CT
 
+To address this issue, we build an open-sourced dataset -- COVID-CT, which contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs. The utility of this dataset is confirmed by a senior radiologist who has been diagnosing and treating COVID-19 patients since the outbreak of this pandemic.
 
 ### The utility of this dataset has been confirmed by a senior radiologist in Tongji Hospital, Wuhan, China, who has performed diagnosis and treatment of a large number of COVID-19 patients during the outbreak of this disease between January and April. 
 
